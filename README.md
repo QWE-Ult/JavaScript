@@ -4,7 +4,7 @@ My personal JavaScript learning repo – practice snippets, DOM experiments, and
 # 🧠 JavaScript Practice & Projects
 
 This repository contains my JavaScript journey – including:
-- 🧪 Snippets from practice sessions  
+- 🧪 Snippets from practice sessions  (Rough Practice )
 - 🛠️ Mini projects using core JavaScript (no frameworks)
 
 
